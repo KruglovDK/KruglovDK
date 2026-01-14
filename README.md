@@ -21,6 +21,10 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
+**APIs & Protocols:**
+![REST API](https://img.shields.io/badge/REST%20API-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-%2300ADD8.svg?style=for-the-badge&logo=google&logoColor=white)
+
 ## 📊 GitHub Activity
 
 <div align="center">
