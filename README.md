@@ -14,8 +14,12 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KruglovDK&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KruglovDK&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KruglovDK&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KruglovDK&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ⭐️ From [KruglovDK](https://github.com/KruglovDK)
