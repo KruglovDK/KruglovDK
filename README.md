@@ -1,5 +1,3 @@
-# Hi there, I'm Danil 👋
-
 ## 🎓 About Me
 - 🎓 Student at Moscow Aviation Institute
 - 📍 Based in Russia
@@ -25,6 +23,12 @@
 ![REST API](https://img.shields.io/badge/REST%20API-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-%2300ADD8.svg?style=for-the-badge&logo=google&logoColor=white)
 
+## 💡 Current Focus
+<!-- What are you currently working on or learning? -->
+- 🔭 Working on backend services with Go
+- 🌱 Learning more about distributed systems
+- 🎯 Exploring microservices architecture and system design patterns
+
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -39,11 +43,7 @@
 
 </div>
 
-## 💡 Current Focus
-<!-- What are you currently working on or learning? -->
-- 🔭 Working on backend services with Go
-- 🌱 Learning more about distributed systems
-- 🎯 Exploring microservices architecture and system design patterns
+
 
 ---
 
