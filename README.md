@@ -24,7 +24,6 @@
 ![gRPC](https://img.shields.io/badge/gRPC-%2300ADD8.svg?style=for-the-badge&logo=google&logoColor=white)
 
 ## 💡 Current Focus
-<!-- What are you currently working on or learning? -->
 - 🔭 Working on backend services with Go
 - 🌱 Learning more about distributed systems
 - 🎯 Exploring microservices architecture and system design patterns
