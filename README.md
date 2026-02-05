@@ -2,7 +2,7 @@
 - 🎓 Student at Moscow Aviation Institute
 - 📍 Based in Russia
 - 💻 Passionate about software development and backend engineering
-- 🚀 Currently exploring new technologies related to Go in backend, QA engineer in the past
+- 🚀 Currently exploring new technologies related to Go/Python in backend, QA engineer in the past
 
 ## 🛠️ Tech Stack
 
@@ -28,7 +28,7 @@
 ![gRPC](https://img.shields.io/badge/gRPC-%2300ADD8.svg?style=for-the-badge&logo=google&logoColor=white)
 
 ## 💡 Current Focus
-- 🔭 Working on backend services with Go
+- 🔭 Working on backend services with Python & Go
 - 🌱 Learning more about distributed systems
 - 🎯 Exploring microservices architecture and system design patterns
 
