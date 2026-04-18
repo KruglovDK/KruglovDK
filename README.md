@@ -1,8 +1,8 @@
 ## 🎓 About Me
 - 🎓 Student at Moscow Aviation Institute
 - 📍 Based in Russia
-- 💻 Passionate about software development and backend engineering
-- 🚀 Currently exploring new technologies related to Go/Python in backend, QA engineer in the past
+- 💻 Passionate about software development, backend engineering and QA/QC
+- 🚀 Currently exploring new technologies related to AQA in backend
 
 ## 🛠️ Tech Stack
 
